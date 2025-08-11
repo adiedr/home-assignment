@@ -15,6 +15,10 @@ python main.py \
     --dsm roofs/DSM_15cm_4010.tif \
     --out output/refined_facets.gpkg \
     --layer roofs
+
+
+
+    
 Where: 
 rgb- path to rgb image
 dsm- path to DSM file
