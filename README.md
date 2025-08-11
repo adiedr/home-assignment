@@ -1,7 +1,14 @@
 
 How to Run: 
+
+
+
+
 Install dependencies:
 pip install -r requirements.txt
+
+
+
 run:
 python main.py \
     --rgb roofs/O_3bands_5cm_4010.tif \
