@@ -21,6 +21,9 @@ python main.py \
     
 Where: 
 rgb- path to rgb image
+
 dsm- path to DSM file
+
 out- output path
+
 layer- output layer name
